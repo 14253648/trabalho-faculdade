@@ -29,8 +29,7 @@
    background-image: url(../img/zz.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-  max-height: 100%;
-  max-width:100%;
+  
 }
 .jj{display: flex;
 }
